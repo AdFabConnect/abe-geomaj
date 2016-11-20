@@ -1,0 +1,25 @@
+{
+  "name": "abe-geomaj",
+  "version": "1.0.0",
+  "description": "Query Durville from Abe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdFabConnect/abe-geomaj.git"
+  },
+  "keywords": [
+    "Abe",
+    "plugin",
+    "cms",
+    "durville"
+  ],
+  "author": "Nicolas Labbé",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdFabConnect/abe-geomaj/issues"
+  },
+  "homepage": "https://github.com/AdFabConnect/abe-geomaj#readme"
+}
